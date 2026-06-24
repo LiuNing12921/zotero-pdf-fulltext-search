@@ -1,6 +1,6 @@
 # Zotero PDF Fulltext Search
 
-一个适用于 Zotero 6 的 PDF 全文检索插件。
+一个适用于 Zotero 的 PDF 全文检索插件。
 
 ## 功能
 
@@ -13,9 +13,7 @@
 
 ## 适用版本
 
-- Zotero 6.x
-
-暂不支持 Zotero 7。
+- Zotero 6.x and 7.x
 
 ## 安装方法
 
