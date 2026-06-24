@@ -1,0 +1,2 @@
+content zoteropdffulltext chrome/content/
+overlay chrome://zotero/content/zoteroPane.xul chrome://zoteropdffulltext/content/overlay.xul

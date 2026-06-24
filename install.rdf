@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RDF xmlns="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:em="http://www.mozilla.org/2004/em-rdf#">
+  <Description about="urn:mozilla:install-manifest">
+    <em:id>zotero-pdf-fulltext-search@seven.chatgpt</em:id>
+    <em:type>2</em:type>
+    <em:name>Zotero PDF Fulltext Search</em:name>
+    <em:version>0.3.5</em:version>
+    <em:creator>Loge</em:creator>
+    <em:description>Adds a toolbar-left inline Mendeley-like search panel with refined centered toolbar controls, highlighted indexed PDF full-text snippets, and previous/next navigation in the results row for Zotero 6.</em:description>
+    <em:homepageURL>https://www.zotero.org/</em:homepageURL>
+    <em:targetApplication>
+      <Description>
+        <em:id>zotero@chnm.gmu.edu</em:id>
+        <em:minVersion>6.0</em:minVersion>
+        <em:maxVersion>6.*</em:maxVersion>
+      </Description>
+    </em:targetApplication>
+  </Description>
+</RDF>
